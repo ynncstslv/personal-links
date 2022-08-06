@@ -332,3 +332,10 @@ textarea#input {
         font-size: 0.7rem;
     }
 }
+
+@media (max-width: 300px) {
+    #job-description {
+        font-size: 0.6rem;
+        line-height: 0;
+    }
+}
