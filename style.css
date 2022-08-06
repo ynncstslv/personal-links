@@ -335,7 +335,7 @@ textarea#input {
 
 @media (max-width: 375px) {
     #job-description {
-        font-size: 0.6rem;
+        font-size: 0.5rem;
         line-height: 0;
     }
 }
